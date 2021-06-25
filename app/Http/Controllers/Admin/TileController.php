@@ -6,7 +6,6 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Symfony\Component\HttpFoundation\File;
 use App\Tile;
-use App\Author;
 
 class TileController extends Controller
 {
